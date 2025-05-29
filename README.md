@@ -2,11 +2,6 @@
 
 This is a very simple Python program that prints **"hello world"** to the screen. It's often the first program written when learning a new programming language.
 
-## Code
-
-```python
-print('hello world')
-
 How to Run
 To run this program:
 
@@ -21,3 +16,8 @@ hello world
 
 License:
 This code is free to use and share. No restrictions.
+
+## Code
+
+```python
+print('hello world')
